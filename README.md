@@ -1,2 +1,2 @@
 # Windows-Patching-Project
-Atumating patchig via Ansible
+Patching Windows servers via Ansible
